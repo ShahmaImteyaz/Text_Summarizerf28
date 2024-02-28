@@ -1,1 +1,1 @@
-# Text_Summarizerf28
+# Text_Summarizerf28, summarizing large text and allowing users to condense infromations.
